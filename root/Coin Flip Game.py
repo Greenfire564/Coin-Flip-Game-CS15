@@ -38,3 +38,5 @@ while points > 0:
 
 if points == 0:
     print("Game Over! You ran out of points.")
+
+#Game done
